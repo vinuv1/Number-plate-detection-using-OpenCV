@@ -1,4 +1,4 @@
-Number Plate Detection using OpenCV and Python
+#Number Plate Detection using OpenCV and Python
 This repository contains a Python project that detects vehicle number plates using OpenCV, identifies the state to which the vehicle belongs based on the plate, and extracts the relevant details into an XML file.
 Introduction
 This project is designed to detect vehicle number plates from images or video streams using OpenCV. After detecting the number plate, the system identifies the state in India to which the vehicle is registered based on the plate's alphanumeric code. The extracted information is then saved in an XML file.
